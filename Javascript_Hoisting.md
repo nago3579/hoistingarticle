@@ -116,7 +116,7 @@ console.log(i)
 ~~~
 As always, you can try it out [here](https://repl.it/@NadivGold/Hoisting6).
 
-`let` defines a variable just in the scope. It 'cancels' hoisting. This is why running the above code works fine for 0 through 4, but throws errors when we try to access `i` outside of the scope. The `let` keyword is very useful if you keep scopes in mind. 
+`let` declares a variable just in the scope. It 'cancels' hoisting. This is why running the above code works fine for 0 through 4, but throws errors when we try to access `i` outside of the scope. The `let` keyword is very useful if you keep scopes in mind. 
 
 ### But Wait, There's More
 
@@ -124,6 +124,6 @@ There are even more corner cases with hoisting that you'll run across, but seein
 
 Hoisting may seem complicated and unavoidable, and it is, but now you should have some more tools to better understand and write this quirky language we all love.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MjEwNjU4LC0xNTE2MjQ1NDc1LDk4Mz
-Q3MDkwOV19
+eyJoaXN0b3J5IjpbNTc4OTg4MjgxLDU3NzIxMDY1OCwtMTUxNj
+I0NTQ3NSw5ODM0NzA5MDldfQ==
 -->

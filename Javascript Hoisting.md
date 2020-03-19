@@ -124,5 +124,5 @@ There are even more corner cases with hoisting that you'll run across, and while
 
 Hoisting may seem complicated and unavoidable, and it is, but now you should have some more tools to better understand and write this quirky language we all love.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzgwNjY5OSw1Nzg5ODgyODFdfQ==
+eyJoaXN0b3J5IjpbMTQyMzgwNjY5OV19
 -->

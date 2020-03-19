@@ -120,9 +120,9 @@ As always, you can try it out [here](https://repl.it/@NadivGold/Hoisting6).
 
 ### But Wait, There's More
 
-There are even more corner cases with hoisting that you'll run across, adn
+There are even more corner cases with hoisting that you'll run across, and while it's not necessary to write code that accounts for all of hoisting's shenanigans, it is still helpful to keep this knowledge in the back of your mind.
 
 Hoisting may seem complicated and unavoidable, and it is, but now you should have some more tools to better understand and write this quirky language we all love.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxMzIyMzc2LDU3ODk4ODI4MV19
+eyJoaXN0b3J5IjpbMTQyMzgwNjY5OSw1Nzg5ODgyODFdfQ==
 -->

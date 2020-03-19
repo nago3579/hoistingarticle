@@ -24,7 +24,7 @@ alert(b) //variable is used here
 
 ### Why JavaScript Edits Your Code
 
-JS is similar to an interpreted language (it is a Just-In-Time compiled language, but that's a topic for another article). JS compiles one line at a time, and then runs that line. To ensure that each function can access all the variables in its scope, JS moves variables from the scope they were defined in to the outer scope above it. This is necessary when defining new variables in the middle of a scope instead of the top of that scope.
+JS is similar to an interpreted language (it is a Just-In-Time compiled language, but that's outside the scope of this article). JS compiles one line at a time, and then runs that line. To ensure that each function can access all the variables in its scope, JS moves variables from the scope they were defined in to the outer scope above it. This is necessary when defining new variables in the middle of a scope instead of the top of that scope.
 
 Before C99, C programmers had to declare all local variables they needed at the beginning of the scope, and not anywhere else. Modern languages now support variable declarations anywhere, 
 
@@ -124,5 +124,5 @@ There are even more corner cases with hoisting that you'll run across, but seein
 
 Hoisting may seem complicated and unavoidable, and it is, but now you should have some more tools to better understand and write this quirky language we all love.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYyNDU0NzVdfQ==
+eyJoaXN0b3J5IjpbMTk2MjMwMTYsLTE1MTYyNDU0NzVdfQ==
 -->
